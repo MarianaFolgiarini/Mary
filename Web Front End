@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Bem vindos!
+</title>
+<link href="estilo.css" rel="stylesheet"/>
+<style>
+p{
+color: red;
+}
+</style>
+</head>
+<body>
+<p style="color:green;">BEM VINDO AO TECFRONT.</p>
+</body>
+</html>
+p{
+background-color:blue;
+}
+.style{
+color:red;
+}
